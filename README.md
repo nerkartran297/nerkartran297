@@ -1,5 +1,1 @@
-- 🤓 Chào, mình là Nhật Khánh
-- 🧑‍💻 Mình hiện đang là sinh viên năm 3 ngành Kĩ thuật phần mềm (Software Engineering) của UIT.
-- 😴 Mình rất lười viết code dù cũng khá đam mê :>
-- ☃️ Mình có một vài project web và mobile app liên quan tới các lĩnh vực quản lý và phân tích tài chính (mình cũng có thích làm về computer network nữa) 🍴
-- 🦈 Các bạn nào hứng thú thì có thể liên hệ mình thông qua mail: nerkar.tran@gmail.com hoặc qua signal: +84 914 484 221.
+😴 Mình rất lười viết code dù cũng khá đam mê :>
